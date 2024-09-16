@@ -1,0 +1,43 @@
+body {
+  background-color: lightblue;
+  min-height: 60vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+
+h1{
+  color: orange;
+  text-shadow: 10px 10px 10px black;
+  text-align: center;
+}
+
+.titulo {
+  background-color: blue;
+  display: grid;
+  place-content: center;
+  height: auto;
+  width: auto;
+  max-width: 800px;
+  border-radius: 30px;
+  margin: 0;
+  padding: 50px;
+  padding-left: 150px;
+  padding-right: 150px;
+  box-sizing: border-box;
+}
+
+.pesquisa {
+  background-color: orange;
+  display: grid;
+  place-content: center;
+  border: 10px solid orange;
+  border-radius: 30px;
+  margin-top: 25px;
+}
+
+.resultado {
+  color: orange;
+  text-shadow: 2px 2px black;
+}

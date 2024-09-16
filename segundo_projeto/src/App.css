@@ -1,5 +1,5 @@
 body {
-  background-color: lightblue;
+  background-image: url(./clouds-4009143_1920.jpg);
   min-height: 60vh;
   display: flex;
   justify-content: center;
@@ -14,7 +14,7 @@ h1 {
 }
 
 .boxCompleta {
-  background-color: blue;
+  background-color: #447aba;
   display: grid;
   place-content: center;
   height: auto;

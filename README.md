@@ -1,3 +1,4 @@
+**Para executar o programa por completo, é necessário utilizar o comando `npm start` no bash.**
 ## Documentação do Aplicativo: Clima Brasileiro
 
 ### **Funcionalidades:**
@@ -38,3 +39,5 @@
     * **API externa:** Integrar com uma API externa de previsão do tempo para obter dados mais precisos e atualizados.
 
 **Este documento fornece uma visão geral do aplicativo, suas funcionalidades e como utilizá-lo. Ele também oferece sugestões para futuras melhorias.**
+
+**Para executar o programa por completo, é necessário utilizar o comando `npm start` no bash.**
